@@ -13,6 +13,17 @@
 		FC4A5C551E4F17E4007BDDED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C531E4F17E4007BDDED /* Main.storyboard */; };
 		FC4A5C571E4F17E4007BDDED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C561E4F17E4007BDDED /* Assets.xcassets */; };
 		FC4A5C5A1E4F17E4007BDDED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C581E4F17E4007BDDED /* LaunchScreen.storyboard */; };
+		FC4A5C621E4F1AA6007BDDED /* Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C611E4F1AA6007BDDED /* Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg */; };
+		FC4A5C661E4F1B41007BDDED /* upbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C631E4F1B41007BDDED /* upbutton.png */; };
+		FC4A5C671E4F1B41007BDDED /* downbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C641E4F1B41007BDDED /* downbutton.png */; };
+		FC4A5C681E4F1B41007BDDED /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C651E4F1B41007BDDED /* comment.png */; };
+		FC4A5C6A1E4F1CB6007BDDED /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C691E4F1CB6007BDDED /* home.png */; };
+		FC4A5C6F1E4F1D13007BDDED /* videos.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C6B1E4F1D13007BDDED /* videos.png */; };
+		FC4A5C701E4F1D13007BDDED /* news.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C6C1E4F1D13007BDDED /* news.png */; };
+		FC4A5C711E4F1D13007BDDED /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C6D1E4F1D13007BDDED /* profile.png */; };
+		FC4A5C721E4F1D13007BDDED /* explore.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C6E1E4F1D13007BDDED /* explore.png */; };
+		FC4A5C751E4F1DE4007BDDED /* profile@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C731E4F1DE4007BDDED /* profile@3x.png */; };
+		FC4A5C761E4F1DE4007BDDED /* profile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC4A5C741E4F1DE4007BDDED /* profile@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		FC4A5C561E4F17E4007BDDED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC4A5C591E4F17E4007BDDED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC4A5C5B1E4F17E4007BDDED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC4A5C611E4F1AA6007BDDED /* Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg"; sourceTree = "<group>"; };
+		FC4A5C631E4F1B41007BDDED /* upbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = upbutton.png; sourceTree = "<group>"; };
+		FC4A5C641E4F1B41007BDDED /* downbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = downbutton.png; sourceTree = "<group>"; };
+		FC4A5C651E4F1B41007BDDED /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		FC4A5C691E4F1CB6007BDDED /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		FC4A5C6B1E4F1D13007BDDED /* videos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = videos.png; sourceTree = "<group>"; };
+		FC4A5C6C1E4F1D13007BDDED /* news.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = news.png; sourceTree = "<group>"; };
+		FC4A5C6D1E4F1D13007BDDED /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile.png; sourceTree = "<group>"; };
+		FC4A5C6E1E4F1D13007BDDED /* explore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explore.png; sourceTree = "<group>"; };
+		FC4A5C731E4F1DE4007BDDED /* profile@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile@3x.png"; sourceTree = "<group>"; };
+		FC4A5C741E4F1DE4007BDDED /* profile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +78,17 @@
 		FC4A5C4C1E4F17E4007BDDED /* 9Gag Design */ = {
 			isa = PBXGroup;
 			children = (
+				FC4A5C6B1E4F1D13007BDDED /* videos.png */,
+				FC4A5C731E4F1DE4007BDDED /* profile@3x.png */,
+				FC4A5C741E4F1DE4007BDDED /* profile@2x.png */,
+				FC4A5C6D1E4F1D13007BDDED /* profile.png */,
+				FC4A5C6C1E4F1D13007BDDED /* news.png */,
+				FC4A5C6E1E4F1D13007BDDED /* explore.png */,
+				FC4A5C691E4F1CB6007BDDED /* home.png */,
+				FC4A5C631E4F1B41007BDDED /* upbutton.png */,
+				FC4A5C641E4F1B41007BDDED /* downbutton.png */,
+				FC4A5C651E4F1B41007BDDED /* comment.png */,
+				FC4A5C611E4F1AA6007BDDED /* Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg */,
 				FC4A5C4D1E4F17E4007BDDED /* AppDelegate.swift */,
 				FC4A5C4F1E4F17E4007BDDED /* FirstViewController.swift */,
 				FC4A5C511E4F17E4007BDDED /* SecondViewController.swift */,
@@ -127,9 +160,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC4A5C621E4F1AA6007BDDED /* Funny-School-Meme-School-Holiday-A-Here-Aaand-Its-Gone-Picture.jpg in Resources */,
+				FC4A5C661E4F1B41007BDDED /* upbutton.png in Resources */,
+				FC4A5C761E4F1DE4007BDDED /* profile@2x.png in Resources */,
 				FC4A5C5A1E4F17E4007BDDED /* LaunchScreen.storyboard in Resources */,
 				FC4A5C571E4F17E4007BDDED /* Assets.xcassets in Resources */,
+				FC4A5C6A1E4F1CB6007BDDED /* home.png in Resources */,
+				FC4A5C721E4F1D13007BDDED /* explore.png in Resources */,
 				FC4A5C551E4F17E4007BDDED /* Main.storyboard in Resources */,
+				FC4A5C701E4F1D13007BDDED /* news.png in Resources */,
+				FC4A5C671E4F1B41007BDDED /* downbutton.png in Resources */,
+				FC4A5C711E4F1D13007BDDED /* profile.png in Resources */,
+				FC4A5C751E4F1DE4007BDDED /* profile@3x.png in Resources */,
+				FC4A5C6F1E4F1D13007BDDED /* videos.png in Resources */,
+				FC4A5C681E4F1B41007BDDED /* comment.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
